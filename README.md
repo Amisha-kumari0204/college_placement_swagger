@@ -27,6 +27,7 @@
 ## Description
 
 Built a backend application using NestJS and PostgreSQL to manage and query college-related data.
+
 ![image](https://github.com/user-attachments/assets/f8b1b56b-c4c0-4050-a144-5288a16aa994)
 
 
