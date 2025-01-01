@@ -26,6 +26,12 @@
 
 <p align="center">Link to <a href="https://college-placement-swagger.onrender.com/api/docs">College Placement Swagger</a></p>
 
+## Description
+
+Built a backend application using NestJS and PostgreSQL to manage and query college-related data.
+
+![image](https://github.com/user-attachments/assets/f8b1b56b-c4c0-4050-a144-5288a16aa994)
+
 
 <h2 align="center">Snapshot of my running project</h1>
 ![Image](https://github.com/user-attachments/assets/1213bfd3-f1af-4621-bbe6-553468935054)
@@ -49,11 +55,6 @@ Use this data for testing purpose
     ![Screenshot 2025-01-01 145313](https://github.com/user-attachments/assets/df7acb67-6a8a-4ea9-8aa7-e79756267b30)
 
 
-## Description
-
-Built a backend application using NestJS and PostgreSQL to manage and query college-related data.
-
-![image](https://github.com/user-attachments/assets/f8b1b56b-c4c0-4050-a144-5288a16aa994)
 
 
 ## Project setup
