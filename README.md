@@ -24,6 +24,29 @@
 <h1 align="center">College Placement Swagger</h1>
 <p align="center">Link to <a href="https://college-placement-swagger.onrender.com/api/docs">College Placement Swagger</a></p>
 
+
+<h2 align="center">Snapshot of my running project</h1>
+![WhatsApp Image 2025-01-01 at 14 39 10_3ed89deb](https://github.com/user-attachments/assets/1213bfd3-f1af-4621-bbe6-553468935054)
+
+## How to run the application
+1. Open the link <p>Link to <a href="https://college-placement-swagger.onrender.com/api/docs">College Placement Swagger</a></p>
+2. Navigate to different end points
+3. Enter the required fields
+Note:- Some data are added in my database. Try to test on only those data to get proper result. Description of data are provided in seed.js file inside seeds folder.
+
+## Below are snapshot of my Database
+
+Use this data for testing purpose
+1. College table:
+   ![Screenshot 2025-01-01 145211](https://github.com/user-attachments/assets/6090d516-fc47-4964-816d-9c732dc3f0ad)
+
+2. CollegePlacement Table:
+    ![Screenshot 2025-01-01 145245](https://github.com/user-attachments/assets/e30d232e-b680-47f9-b051-90e01a0c2635)
+
+3. CollegeWiseCourse Table:
+    ![Screenshot 2025-01-01 145313](https://github.com/user-attachments/assets/df7acb67-6a8a-4ea9-8aa7-e79756267b30)
+
+
 ## Description
 
 Built a backend application using NestJS and PostgreSQL to manage and query college-related data.
