@@ -34,7 +34,9 @@ Built a backend application using NestJS and PostgreSQL to manage and query coll
 
 
 <h2 align="center">Snapshot of my running project</h1>
-![Image](https://github.com/user-attachments/assets/1213bfd3-f1af-4621-bbe6-553468935054)
+![snapshots](https://github.com/user-attachments/assets/b27db687-b020-41de-a48f-2971cb545794)
+
+
 
 ## How to run the application
 1. Open the link <p>Link to <a href="https://college-placement-swagger.onrender.com/api/docs">College Placement Swagger</a></p>
